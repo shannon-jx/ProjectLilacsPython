@@ -1,0 +1,31 @@
+alt-profanity-check==1.3.2
+anyio==4.2.0
+asyncio==3.4.3
+certifi==2023.7.22
+cffi==1.15.1
+charset-normalizer==3.3.2
+cryptography @ file:///private/tmp/python-cryptography-20230919-6530-1nu01ji/cryptography-41.0.4
+DateTime==5.4
+h11==0.14.0
+httpcore==1.0.2
+httpx==0.25.2
+idna==3.6
+joblib==1.3.2
+numpy==1.26.3
+pycparser @ file:///private/tmp/pycparser-20230831-5825-v2kl0l/pycparser-2.21
+pyTelegramBotAPI==4.14.1
+python-telegram-bot==20.7
+pytz==2023.3.post1
+pywatchman==1.4.1
+PyYAML @ file:///private/tmp/pyyaml-20230717-6270-1iiwi1j/PyYAML-6.0.1
+requests==2.31.0
+scikit-learn==1.3.2
+scipy==1.11.4
+six==1.16.0
+sniffio==1.3.0
+telebot==0.0.5
+telegram==0.0.1
+threadpoolctl==3.2.0
+typing==3.7.4.3
+urllib3==2.1.0
+zope.interface==6.1
